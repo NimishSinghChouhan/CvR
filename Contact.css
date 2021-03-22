@@ -1,0 +1,12 @@
+body{
+    color: aliceblue;
+    background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/05/shutterstock_1556534186.jpg?w=750");
+}
+
+.info{text-align: left;
+    
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
